@@ -22,10 +22,10 @@
 <div align="left">
 
 ### :ok_man: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/vs5y14mkgmZOVukgmE/giphy.gif" width="15"> from Moscow.
-- :open_book: I'm studying quantitative methods in economics and finance at HSE 
+I am a ML-engineer <img src="https://media.giphy.com/media/vs5y14mkgmZOVukgmE/giphy.gif" width="15"> from Moscow.
+- :open_book: I'm getting a master degree at HSE
 
-- :atom_symbol: I worked as a data analyst at a scientific institute
+- :atom_symbol: I'm working as a ML-engineer at an animation studio
   
 - :zap: In my free time, I do projects on machine learning and read tech articles
 
