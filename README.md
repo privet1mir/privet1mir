@@ -23,7 +23,7 @@
 
 ### :ok_man: About Me :
 I am a ML-engineer <img src="https://media.giphy.com/media/vs5y14mkgmZOVukgmE/giphy.gif" width="15"> from Moscow.
-- :open_book: I'm getting a master degree at HSE and currently working as a ML-engineer at an animation studio
+- :open_book: Currently working as ML-engineer at an animation studio
 
 - :atom_symbol: I've been working as a Data Scientist at a Scientific Institute
   
